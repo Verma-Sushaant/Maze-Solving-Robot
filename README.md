@@ -32,7 +32,7 @@ To replicate this build, you will need:
 
 ### 🔌 Circuit Diagram
 <div align="center">
-  <img src="assets/Circuit Diagram.jpeg" width="600" alt="Circuit Diagram">
+  <img src="assets/Circuit Diagram.jpeg" width="400" alt="Circuit Diagram">
 </div>
 
 ---
