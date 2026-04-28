@@ -75,6 +75,15 @@ This project is part of my exploration into autonomous robotics and IoT systems.
     * Using advanced algorithms like A* or Djkstra for maze-mapping.
 
 ---
+ 
+### Prototype Robot
+<div align="center">
+  <img src="assets/Robot.jpeg" width="400" alt="Robot prototype">
+</div>
+
+---
+
+---
 
 ## 📄 License
 This project is licensed under the MIT License.
